@@ -1,6 +1,6 @@
 # Get Hired Roadmap 2024! ✅
 
-Hi! I'm Kushal Vijay, A **Software Engineer at Microsoft and a Content Creator on YouTube** with over **2,50,000 family across socials**. This is a dedicated sheet for you to learn Programming language, DSA, CS Fundamentals, System Design, Aptitude and Behavioral Questions from scratch and get you ready for your next Job.
+This is a dedicated sheet for you to learn Programming language, DSA, CS Fundamentals, System Design, Aptitude and Behavioral Questions from scratch and get you ready for your next Job.
 
 A lot of effort goes into making the video and sheet, One ⭐ to the repo and one share to the video [Video Link] will not hurt you. 🥺
 
